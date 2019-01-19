@@ -1,3 +1,4 @@
+READ ME
 ###################################################################
 # All Rights Reserved to Ahmed Ezzat Haggag and AuroraSoft Company#
 # A Simple Script to get Information about Someones IP Address and#
