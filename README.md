@@ -1,14 +1,14 @@
-READ ME
-###################################################################
-# All Rights Reserved to Ahmed Ezzat Haggag and AuroraSoft Company#
-# A Simple Script to get Information about Someones IP Address and#
-# Get his Location Through Google Maps or any Online Map          #
-# Used Modules: geocoder                                          #
-# My Facebook Account : ezzat001                                  #
-# My Instagram Account : ahmedezzatpy                             #
-# My Whatsapp Number : +201553956506                              #
-# 2019 © Copyrights AuroraSoft                                    #
-###################################################################
+# Read Me File
+##################################################################
+#All Rights Reserved to Ahmed Ezzat Haggag and AuroraSoft Company#
+#A Simple Script to get Information about Someones IP Address and#
+#Get his Location Through Google Maps or any Online Map          #
+#Used Modules: geocoder                                          #
+#My Facebook Account : ezzat001                                  #
+#My Instagram Account : ahmedezzatpy                             #
+#My Whatsapp Number : +201553956506                              #
+#2019 © Copyrights AuroraSoft                                    #
+##################################################################
 ipaddressinfo
 Getting information about a specific ip address and you can detect the location on the map using longitude and latitude
 
@@ -20,4 +20,4 @@ to Locate the Device on the Map
 https://www.latlong.net/
 https://www.gps-coordinates.net/
 
-Thanks
+Thanks 
